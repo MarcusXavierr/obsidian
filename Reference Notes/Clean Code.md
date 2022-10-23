@@ -29,6 +29,7 @@ Bom, eu achei esse capitulo bem óbvio. Talvez na época que o livro foi escrito
 ## Capítulo 5: Formatação
 {{Todo: escrever um artigo sobre formatação pra postar aqui. Aliás, vc pode ler o capitulo e postar as suas core ideas aqui}}
 
+teste
 ---
 # References
 O LIvro clean code
