@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ff05ffa357f9e6ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07576b947d602cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68151ad2064e649e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference Notes/Comandos que aprendi no vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78aa7f4f086ddc46",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fab5b49a6aca36d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e711e072e8d90ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c99ab261717ba97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b77cc6de67062d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1df9a87113c4bf0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7be8a73341285526",
+    "type": "split",
+    "children": [
+      {
+        "id": "af67f47e656b419d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cce73cbe5a06cd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d1341fa8256ecfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2b9624abd5a8f5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87c8aefa305d5892",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "78aa7f4f086ddc46",
+  "lastOpenFiles": [
+    "Zettelkasten/A importância da documentação de integração entre microserviços.md",
+    "Zettelkasten/Importância dos testes end to end.md",
+    "Zettelkasten/Simples, mas não simplório.md",
+    "Reference Notes/Clean Code.md",
+    "Reference Notes/Comandos que aprendi no vim.md",
+    "Zettelkasten/Comandos mais básicos do vim.md",
+    "Zettelkasten/vim.md",
+    "Zettelkasten/Work Insights.md",
+    "Templates/Core Zettel idea.md",
+    "Zettelkasten/Untitled.md"
+  ]
+}
