@@ -29,7 +29,36 @@ Bom, eu achei esse capitulo bem óbvio. Talvez na época que o livro foi escrito
 ## Capítulo 5: Formatação
 {{Todo: escrever um artigo sobre formatação pra postar aqui. Aliás, vc pode ler o capitulo e postar as suas core ideas aqui}}
 
-teste
+## Capítulo 6: Objetos e Estrutura de dados
+Basicamente a ideia é que se usa Classes pra modelar tanto DTOs quanto classes de serviço no Java, então por isso é preciso ter uma separação clara entre o que só guarda dados, e o que opera em cima de dados.
+
+## Capítulo 7: Error Handling
+O TL;DR é: use exceções ao invés de retornar erros (Go chora). Não retorne nulo, estoure uma exceção (JS chora). Não passe nulo (python chora). 
+
+Enfim, tente separar as duas preocupações (criar código de produção e fazer error handling) o maximo possivel. Isso diminui o mental overhead de precisar entender as duas coisas ao mesmo tempo.
+
+## Capítulo 8: Boundaries
+Aqui o titio bob fala pra você tentar isolar o maximo possível as suas dependências externas. Mas eu sinceramente acho que isso aí é uma parada meio utópica em pleno 2022. O véio não conhecia React
+
+## Capítulo 9: Unit Tests
+Bons testes tem uma boa legibilidade. Testes ruins mais atrapalham do que ajudam, pois eles tendem a ser bem mais difíceis de modificar à medida que o sistema evolui.
+
+Abstrair as assertions dos seus testes **pode** ser uma boa ideia, mas é importante ter bom senso. Não misture conceitos diferentes no mesmo teste, se você está testando o caso de sucesso em um teste, é melhor criar um novo teste para testar o caso de exceção do que testar tudo no mesmo teste.
+
+## Capítulo 10: Classes
+2022-11-13 15:33
+Status: #idea
+Tags:
+
+# Clean Code
+
+
+
+---
+# References
+
+
+
 ---
 # References
 O LIvro clean code
