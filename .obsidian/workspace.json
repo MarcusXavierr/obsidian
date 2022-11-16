@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a07576b947d602cf",
+        "id": "2dcc69b155ff18d9",
         "type": "tabs",
         "children": [
           {
-            "id": "68151ad2064e649e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference Notes/Comandos que aprendi no vim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78aa7f4f086ddc46",
+            "id": "4ce143690b626642",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -28,7 +16,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -141,20 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "78aa7f4f086ddc46",
+  "active": "4ce143690b626642",
   "lastOpenFiles": [
-    "Zettelkasten/A importância da documentação de integração entre microserviços.md",
-    "Zettelkasten/Importância dos testes end to end.md",
-    "Zettelkasten/Simples, mas não simplório.md",
+    "Zettelkasten/Testando.md",
+    "Zettelkasten/Learning how to learn.md",
+    "Zettelkasten/Javascript.md",
+    "Zettelkasten/The 100 hour rule.md",
     "Reference Notes/Clean Code.md",
-    "Reference Notes/Comandos que aprendi no vim.md",
+    "Zettelkasten/Simples, mas não simplório.md",
     "Zettelkasten/Comandos mais básicos do vim.md",
-    "Zettelkasten/vim.md",
-    "Zettelkasten/Work Insights.md",
-    "Templates/Core Zettel idea.md",
-    "Zettelkasten/Untitled.md"
+    "Zettelkasten/Importância dos testes end to end.md",
+    "Zettelkasten/Primeiras impressões do React.md",
+    "Zettelkasten/Estado no React.md"
   ]
 }
