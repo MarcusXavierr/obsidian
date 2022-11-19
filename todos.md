@@ -10,6 +10,7 @@
     - [ ] Criar script para prevenir usuário de acessar X telas
 
 - [ ] Exercicio
+    - [ ] Se tiver calor, faz calistenia. Treino full body de 40min
 
 - [ ] Ler mais 1 ou 2 capítulos do Clean Code
     - [ ] E se tiver algo que pode virar um artigo, escrever
